@@ -4,7 +4,7 @@
 
 ## Intorduction: using deep learning to learn kinetics of phase transitions
 
-The phase transition is one of the most important concepts in materials science. In experiments, we are nowadays capable to observe the process of phase transitions in in-situ transmission electron microscopy that has resolution down to single atoms.  In the theoretical aspect, we have been using the phase-field model to model kinetics of phase transitions since three decades ago. The question we want to ask: **can machine learn a phase-field model from in-situ experimantal data?**
+The phase transition is one of the most important concepts in materials science. In experiments, we are nowadays capable to observe the process of phase transitions in in-situ transmission electron microscopy that has resolution down to single atoms.  In the theoretical aspect, we have been using the phase-field model to model kinetics of phase transitions since three decades ago. The question we want to ask: **can the machine learn a phase-field model from in-situ experimantal data?**
 
 
 
