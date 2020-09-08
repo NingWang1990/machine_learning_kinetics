@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://giphy.com/gifs/ftBzkYV06IWkGnfXRl/html5" width="5000" height="500" >
+<img src="https://media.giphy.com/media/ftBzkYV06IWkGnfXRl/giphy.gif" width="5000" height="500" >
 </p>
 
 ###Intorduction: using deep learning to learn kinetics of phase transitions
