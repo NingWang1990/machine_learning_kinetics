@@ -2,9 +2,9 @@
 <img src="https://media.giphy.com/media/ftBzkYV06IWkGnfXRl/giphy.gif" width="5000" height="500" >
 </p>
 
-## Intorduction: using deep learning to learn kinetics of phase transitions
+## Intorduction: using machine learning to learn kinetics of phase transitions
 
-The phase transition is one of the most important concepts in materials science. In experiments, we are nowadays equipped with microcopies that have resolutions down to single atoms, and capable to record the process of phase transitions in in-situ experimental videos. **Can the machine learn automatically the kinetics of phase transitions from in-situ experimental data?** This is the question we want to explore in this project.  
+The phase transition is one of the most important concepts in materials science. In experiments, we are nowadays equipped with microcopies that have resolutions down to single atoms, and capable to record the process of phase transitions in in-situ experimental videos. The kinetics of phase transitions are hidden in these videos, and it is tedious and difficult to discover them manually. **how can use mahcine learning to assist us to learn the kinetics of phase transitions from in-situ experimental data?** This is the question we want to explore in this project.  
 
 ## Phase field model
 In the theoretical aspect, we have been using the phase-field model to model kinetics of phase transitions since three decades ago.
