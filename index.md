@@ -1,5 +1,5 @@
 
-Using machine learning to learn kinetics of phase transitions
+### Using machine learning to learn kinetics of phase transitions
 
 
 <p align="center">
