@@ -20,4 +20,8 @@ To learn a phase-field model means that to **learn the coefficient and the chemi
 
 
 ## Physics-informed neural network
-We employ the physics-informed neural network (Raissi et al., J. Comput. Phys. 2019) in this project. As the name dictates, the neural network is informed with the physics. In this work, the physics is the phase-field model to describe phase transitions. 
+We employ the physics-informed neural network (Raissi et al., J. Comput. Phys. 2019) in this project. As the name dictates, the neural network is informed with the physics. In this work, the physics is the phase-field model that describes kinetics of phase transitions. A schematic diagram of thie neural network is shown in the plot at the top of this webpage.
+
+## Results
+The main result of this work is shown in the plot at the top of this webpage. We employ **pytorch** to contruct our neural network, and train it on NVIDIA Tesla  Volta GPU 32GB.   
+
