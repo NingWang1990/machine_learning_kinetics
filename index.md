@@ -4,13 +4,10 @@
 
 ## Intorduction: using deep learning to learn kinetics of phase transitions
 
-The phase transition is one of the most important concepts in materials science. In experiments, we are nowadays equipped with microcopies that have resolutions down to single atoms, and capable to record the process of phase transitions in in-situ experimental videos. **Can the machine learn automatically the kinetics of phase transitions from in-situ experimental data?** This is the question we want to explore in this project. If this is possible, we may use computers to assist scientists to discover new knowledge from experimental data. 
+The phase transition is one of the most important concepts in materials science. In experiments, we are nowadays equipped with microcopies that have resolutions down to single atoms, and capable to record the process of phase transitions in in-situ experimental videos. **Can the machine learn automatically the kinetics of phase transitions from in-situ experimental data?** This is the question we want to explore in this project.  
 
-In the theoretical aspect, we have been using the phase-field model to model kinetics of phase transitions since three decades ago. Apparently, the physics of phase transitions is hidden in the in-situ experimental data. 
-**can the machine learn a phase-field model from in-situ experimantal data?** 
-
-## Intorduction: using deep learning to learn kinetics of phase transitions
-
+## Phase field model
+In the theoretical aspect, we have been using the phase-field model to model kinetics of phase transitions since three decades ago.
 The phase-field equation (Allen-Cahn) dictates that the temporal evolution of the phase field can be described by the partial-differential equation below,
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;\phi}{\partial&space;t}&space;=&space;\kappa&space;\Delta&space;\phi&space;&plus;&space;\mu(\phi)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;\phi}{\partial&space;t}&space;=&space;\kappa&space;\Delta&space;\phi&space;&plus;&space;\mu(\phi)" title="\frac{\partial \phi}{\partial t} = \kappa \Delta \phi + \mu(\phi)" /></a>.
