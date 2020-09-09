@@ -26,5 +26,5 @@ We employ the physics-informed neural network (Raissi et al., J. Comput. Phys. 2
 
 ## Results
 The main result of this work is shown in the plot at the top of this webpage. The result with better resolution can be visualized [here](https://drive.google.com/file/d/1QyNy-73R8cHTt2BE9qUn5ptpvA2tau5Q/view). 
-We employed **pytorch** from facebook to contruct our neural network, and train it on NVIDIA Tesla Volta GPU 32GB. Our training data are the experimental in-situ video of the phase seperation in a high-entropy alloy, the left one in the plot. One output of the neural network is the denoised video, the middle one in the plot. The other output is the learnt phase-field model. We showed the learning process of the chemical potential in the right video in the plot. 
+We employed **pytorch** from facebook to construct our neural network, and train it on NVIDIA Tesla Volta GPU 32GB. Our training data are the experimental in-situ video of the phase seperation in a high-entropy alloy, the left one in the plot. One output of the neural network is the denoised video, the middle one in the plot. The other output is the learnt phase-field model. We showed the learning process of the chemical potential in the right video in the plot. 
 
